@@ -1,0 +1,25 @@
+build/default/production/main.o:  \
+main.c  \
+mcc_generated_files/mcc.h  \
+ mcc_generated_files/system.h  \
+mcc_generated_files/clock.h  \
+ mcc_generated_files/pin_manager.h  \
+ mcc_generated_files/interrupt_manager.h  \
+mcc_generated_files/exceptions.h  \
+ mcc_generated_files/sccp2_compare.h  \
+mcc_generated_files/mccp1_compare.h  \
+ mcc_generated_files/watchdog.h  \
+mcc_generated_files/adc1.h  \
+ Source/include/FreeRTOS.h  \
+FreeRTOSConfig.h  \
+Source/include/projdefs.h  \
+ Source/include/portable.h  \
+Source/include/deprecated_definitions.h  \
+ Source/portable/MPLAB/PIC32MX/portmacro.h  \
+Source/include/mpu_wrappers.h  \
+ Source/include/task.h  \
+Source/include/list.h  \
+Source/include/queue.h  \
+ Source/include/task.h  \
+Source/include/semphr.h  \
+Source/include/queue.h 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/freertos_v10_pic32mm.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>66704</length>                 
+      <used>30558</used>                     
+      <free>36146</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>5280</used>                     
+      <free>2912</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
